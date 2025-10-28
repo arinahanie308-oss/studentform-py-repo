@@ -1,4 +1,4 @@
-# "Bloom College" Student Registeratiom Form
+# "Bloom College" Student Registration Form
 
 ## Technologies Used
 - HTML, CSS, JS
